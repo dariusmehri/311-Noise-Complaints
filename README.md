@@ -5,3 +5,6 @@ This project combines Python, generative AI and 2025 311 and Pluto data download
 
 ### Outliers
 
+<img width="283" height="283" alt="image" src="https://github.com/user-attachments/assets/39d4d574-0822-4ba9-8c9c-846366ae18f8" />
+
+
