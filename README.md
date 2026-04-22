@@ -10,17 +10,15 @@ This project leverages Python, generative AI, and 2025 311 and PLUTO datasets so
 Initial map analysis revealed a clear outlier in the in the Bronx (see image on the right). Further investigation showed that 46,736 loud music/party complaints were associated with a single address in the Wakefield, Williamsburg community district over the course of the year—an average of roughly 130 complaints per day. This level of concentration is highly unlikely to represent independent incidents and instead points to a reporting artifact. In NYC 311 data, it is not uncommon for a single location to generate extremely high volumes when one caller repeatedly submits complaints, often via a mobile device or app that may default or mis-geocode to a fixed address. To address this, the data was de-duplicated to reduce the influence of repeated submissions from the same source, ensuring that the analysis more accurately reflects true complaint patterns and avoids distortion in spatial hotspot results.
 
 ### Summary Statistics
-#### Borough
+#### Borough and Location Type
 When adjusted for borough population, noise complaints are relatively evenly distributed across New York City, with Brooklyn accounting for 28%, followed by Manhattan at 26%, the Bronx at 23%, and Queens at 20%, while Staten Island represents just 3%. This distribution suggests that, on a per-capita basis, noise-related quality-of-life concerns are most pronounced in Brooklyn and Manhattan, likely reflecting higher density, nightlife activity, and mixed residential-commercial land use, whereas Staten Island remains comparatively less impacted.
 
-<img width="352" height="456" alt="image" src="https://github.com/user-attachments/assets/b4b84cd8-2442-410e-a750-a0bf95cc945d" align="center"/>
-
-
-
-#### Location Type
 Noise complaints are primarily concentrated in residential settings, with 54% originating from residential buildings or houses, followed by 31% from streets and sidewalks and 6% from stores or commercial locations. This distribution indicates that most noise issues are tied to everyday living environments and public spaces.
 
 Noise complaints are predominantly submitted through digital channels, with 58% filed online and an additional 27% via mobile phones, while landline calls account for 16%. This distribution highlights a strong shift toward digital engagement with 311 services, suggesting that most residents prefer the convenience of online and mobile platforms over traditional phone-based reporting.
+
+<img width="954" height="512" alt="image" src="https://github.com/user-attachments/assets/bf11eb39-583b-446a-9cb5-9b631b162979" />
+
 
 
 
