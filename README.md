@@ -24,6 +24,8 @@ Noise complaints are predominantly submitted through digital channels, with 58% 
 
 #### Complaint Types
 
+The distribution of 311 noise complaints is heavily dominated by a few key categories. Loud music and party-related complaints account for the majority, with 185,445 incidents (52% of the total), far exceeding all other types. This is followed by banging or pounding complaints at 69,114 (19%), and loud talking at 37,645 (10.6%). All remaining categories—such as car or truck music, after-hours construction, and engine idling—each each represent less than 4% of complaints. Overall, the data shows that most noise issues are tied to residential and social disturbances rather than mechanical or commercial sources.
+
 <img width="1523" height="930" alt="image" src="https://github.com/user-attachments/assets/a0a2264a-4556-46a9-9681-e18033d1f1e6" />
 
 
