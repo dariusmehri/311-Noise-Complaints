@@ -10,8 +10,4 @@ This project leverages Python, generative AI, and 2025 311 and PLUTO datasets so
 Initial map analysis revealed a clear outlier in the in the Bronx (see image on the right). Further investigation showed that 46,736 loud music/party complaints were associated with a single address in the Wakefield, Williamsburg community district over the course of the year—an average of roughly 130 complaints per day. This level of concentration is highly unlikely to represent independent incidents and instead points to a reporting artifact. In NYC 311 data, it is not uncommon for a single location to generate extremely high volumes when one caller repeatedly submits complaints, often via a mobile device or app that may default or mis-geocode to a fixed address. To address this, the data was de-duplicated to reduce the influence of repeated submissions from the same source, ensuring that the analysis more accurately reflects true complaint patterns and avoids distortion in spatial hotspot results.
 
 ### Summary Statistics
-
-<img width="358" height="446" alt="image" src="https://github.com/user-attachments/assets/f1a83922-7a30-402f-918a-87433573817c" align="left" />
-
-
 When adjusted for borough population, noise complaints are relatively evenly distributed across New York City, with Brooklyn accounting for 28%, followed by Manhattan at 26%, the Bronx at 23%, and Queens at 20%, while Staten Island represents just 3%. This distribution suggests that, on a per-capita basis, noise-related quality-of-life concerns are most pronounced in Brooklyn and Manhattan, likely reflecting higher density, nightlife activity, and mixed residential-commercial land use, whereas Staten Island remains comparatively less impacted.
