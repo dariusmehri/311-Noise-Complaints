@@ -12,5 +12,7 @@ Initial map analysis revealed a clear outlier in the in the Bronx (see image on 
 ### Summary Statistics
 When adjusted for borough population, noise complaints are relatively evenly distributed across New York City, with Brooklyn accounting for 28%, followed by Manhattan at 26%, the Bronx at 23%, and Queens at 20%, while Staten Island represents just 3%. This distribution suggests that, on a per-capita basis, noise-related quality-of-life concerns are most pronounced in Brooklyn and Manhattan, likely reflecting higher density, nightlife activity, and mixed residential-commercial land use, whereas Staten Island remains comparatively less impacted.
 
+Noise complaints are primarily concentrated in residential settings, with 54% originating from residential buildings or houses, followed by 31% from streets and sidewalks and 6% from stores or commercial locations. This distribution indicates that most noise issues are tied to everyday living environments and public spaces.
+
 <img width="1042" height="437" alt="image" src="https://github.com/user-attachments/assets/b1c510a8-57fa-4b63-9abd-1085def69646" />
 
