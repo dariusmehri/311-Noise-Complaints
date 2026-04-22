@@ -24,7 +24,7 @@ Noise complaints are predominantly submitted through digital channels, with 58% 
 
 #### Complaint Types
 
-<img width="1123" height="630" alt="image" src="https://github.com/user-attachments/assets/a0a2264a-4556-46a9-9681-e18033d1f1e6" />
+<img width="1323" height="930" alt="image" src="https://github.com/user-attachments/assets/a0a2264a-4556-46a9-9681-e18033d1f1e6" />
 
 
 
