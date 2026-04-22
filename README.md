@@ -14,5 +14,7 @@ When adjusted for borough population, noise complaints are relatively evenly dis
 
 Noise complaints are primarily concentrated in residential settings, with 54% originating from residential buildings or houses, followed by 31% from streets and sidewalks and 6% from stores or commercial locations. This distribution indicates that most noise issues are tied to everyday living environments and public spaces.
 
+Noise complaints are predominantly submitted through digital channels, with 58% filed online and an additional 27% via mobile phones, while landline calls account for 16%. This distribution highlights a strong shift toward digital engagement with 311 services, suggesting that most residents prefer the convenience of online and mobile platforms over traditional phone-based reporting.
+
 <img width="1042" height="437" alt="image" src="https://github.com/user-attachments/assets/b1c510a8-57fa-4b63-9abd-1085def69646" />
 
