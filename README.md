@@ -3,5 +3,5 @@ Analyzing NYC 311 noise complaints is important as it provides a real-time, resi
 
 This project combines Python, generative AI and 311 and Pluto data downloaded from NYC Open Data
 
-#### Outliers
+### Outliers
 
