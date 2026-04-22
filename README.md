@@ -22,6 +22,11 @@ Noise complaints are predominantly submitted through digital channels, with 58% 
 
 <img width="954" height="512" alt="image" src="https://github.com/user-attachments/assets/bf11eb39-583b-446a-9cb5-9b631b162979" />
 
+#### Complaint Types
+
+
+
+
 #### Incident Hour
 
 The temporal pattern of 311 noise complaints shows a clear nighttime concentration. More than half of all complaints (54%) occur between 8 PM and 2 AM, reflecting peak periods of social activity and residential disturbance. Complaints reach their lowest point at 6 AM, accounting for just 1.5% of the total, before steadily increasing throughout the day. Activity builds into the evening, ultimately peaking at 10 PM with 39,857 complaints, representing 11.2% of all calls. This pattern highlights a strong correlation between noise complaints and typical evening and late-night human activity.
