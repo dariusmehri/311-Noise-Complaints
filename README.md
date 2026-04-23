@@ -43,6 +43,11 @@ The community district analysis of loud music and party complaints shows a clear
 
 <img width="1014" height="445" alt="image" src="https://github.com/user-attachments/assets/f36c72da-4899-4b3e-af83-14e683212b49" />
 
+#### Banging/Pounding
+
+<img width="1014" height="445" alt="image" src="https://github.com/user-attachments/assets/1345cd87-d41a-455e-a6cc-4523d36b9f60" />
+
+
 
 
 
