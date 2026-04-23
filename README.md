@@ -45,6 +45,8 @@ The community district analysis of loud music and party complaints shows a clear
 
 #### Banging/Pounding
 
+The community district analysis for banging and pounding complaints shows a similar concentration in dense, high-activity neighborhoods. Washington Heights–Inwood in Manhattan ranks highest, followed by Central Harlem, reinforcing upper Manhattan as a key hotspot. In the Bronx, Bedford Park–Norwood comes in third, while in Brooklyn, Brooklyn Heights–Fort Greene and Bensonhurst round out the top five. Overall, the pattern suggests these complaints are more prevalent in areas with a mix of older housing stock, higher residential density, and shared living spaces where structural noise and neighbor-related disturbances are more likely.
+
 <img width="1014" height="445" alt="image" src="https://github.com/user-attachments/assets/1345cd87-d41a-455e-a6cc-4523d36b9f60" />
 
 
