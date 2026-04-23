@@ -29,14 +29,13 @@ The distribution of 311 noise complaints is heavily dominated by a few key categ
 <img width="1094" height="590" alt="image" src="https://github.com/user-attachments/assets/ecb6bb47-4163-4163-b6d1-520d83115b5d" />
 
 
-
-
-
 #### Incident Hour
 
 The temporal pattern of 311 noise complaints shows a clear nighttime concentration. More than half of all complaints (54%) occur between 8 PM and 2 AM, reflecting peak periods of social activity and residential disturbance. Complaints reach their lowest point at 6 AM, accounting for just 1.5% of the total, before steadily increasing throughout the day. Activity builds into the evening, ultimately peaking at 10 PM with 39,857 complaints, representing 11.2% of all calls. This pattern highlights a strong correlation between noise complaints and typical evening and late-night human activity.
 
 <img width="927" height="571" alt="image" src="https://github.com/user-attachments/assets/c5c50049-5af4-431f-a732-9fe5f0be77f8" />
+
+### Hotspot Analytics
 
 
 
