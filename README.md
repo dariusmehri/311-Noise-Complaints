@@ -57,6 +57,8 @@ Construction-related noise complaints are concentrated in development-heavy area
 
 #### Barking Dog
 
+Barking dog complaints are more dispersed across boroughs, but still show clear neighborhood clusters. Bushwick in Brooklyn ranks highest, followed by Astoria in Queens and Stapleton–Port Richmond in Staten Island. In the Bronx, Pelham Parkway–Morris Park–Laconia appears next, with Bedford-Stuyvesant in Brooklyn rounding out the top five. Unlike other noise types, this pattern reflects localized residential conditions rather than broader nightlife or construction activity.
+
 <img width="1014" height="445" alt="image" src="https://github.com/user-attachments/assets/c751b0cb-9a16-4b67-9fe8-2314ade38667" />
 
 
