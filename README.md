@@ -37,6 +37,11 @@ The temporal pattern of 311 noise complaints shows a clear nighttime concentrati
 
 ### Hotspot Analytics
 
+#### Loud Music/Party
+
+<img width="280" height="287" alt="image" src="https://github.com/user-attachments/assets/c9ee9aa0-22f6-44f2-ad9f-61429f43323c" align='left' />
+
+
 
 
 
