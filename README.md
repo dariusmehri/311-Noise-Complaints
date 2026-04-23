@@ -51,6 +51,7 @@ The community district analysis for banging and pounding complaints shows a simi
 
 #### Construction Equipment and After Hours Construction
 
+<img width="1014" height="445" alt="image" src="https://github.com/user-attachments/assets/1083d166-2ae6-4b7d-9feb-a1c46fb3f49f" />
 
 
 
