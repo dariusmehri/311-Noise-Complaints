@@ -57,12 +57,19 @@ Construction-related noise complaints are concentrated in development-heavy area
 
 #### Barking Dog
 
-Barking dog complaints are more dispersed across boroughs, but still show clear neighborhood clusters. Bushwick in Brooklyn ranks highest, followed by Astoria in Queens and Stapleton–Port Richmond in Staten Island. In the Bronx, Pelham Parkway–Morris Park–Laconia appears next, with Bedford-Stuyvesant in Brooklyn rounding out the top five. Unlike other noise types, this pattern reflects localized residential conditions rather than broader nightlife or construction activity.
+Barking dog complaints are a different issue compared to loud music or construction noise, as they tend to be more localized and persistent, usually tied to a specific residence. They are often driven by dogs left alone for long periods, outdoor dogs, or noise traveling through thin walls in dense housing. Unlike other noise types, these complaints are more likely to involve repeat complaints at the same address, reflecting pet ownership patterns and building conditions rather than broader neighborhood activity.
+
+As can be seen in the plots below, barking dog complaints are more dispersed across boroughs, but still show clear neighborhood clusters. Bushwick in Brooklyn ranks highest, followed by Astoria in Queens and Stapleton–Port Richmond in Staten Island. In the Bronx, Pelham Parkway–Morris Park–Laconia appears next, with Bedford-Stuyvesant in Brooklyn rounding out the top five. Unlike other noise types, this pattern reflects localized residential conditions rather than broader nightlife or construction activity.
 
 <img width="1014" height="445" alt="image" src="https://github.com/user-attachments/assets/c751b0cb-9a16-4b67-9fe8-2314ade38667" />
 
+#### Ice Cream Trucks
 
+Ice cream truck noise complaints usually aren’t about the truck itself as much as the repetitive music loop. Vendors play those jingles continuously to attract kids, and in dense residential areas—especially in the summer—that can get irritating fast.
 
+Ice cream truck noise complaints show an interesting mix of residential and high-traffic areas. The highest concentration is in Pelham Parkway–Morris Park–Laconia in the Bronx, followed by the Midtown Business District in Manhattan, and New Springville–South Beach in Staten Island. This pattern suggests that complaints are driven both by neighborhood-level exposure in residential areas and high foot-traffic zones where vendors operate frequently and for extended periods.
+
+<img width="1014" height="445" alt="image" src="https://github.com/user-attachments/assets/4c4d0a07-73f9-4b4f-a3b8-a4380a020a21" />
 
 
 
