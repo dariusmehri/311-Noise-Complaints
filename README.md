@@ -55,6 +55,9 @@ Construction-related noise complaints are concentrated in development-heavy area
 
 <img width="1014" height="445" alt="image" src="https://github.com/user-attachments/assets/1083d166-2ae6-4b7d-9feb-a1c46fb3f49f" />
 
+#### Barking Dog
+
+<img width="591" height="288" alt="image" src="https://github.com/user-attachments/assets/c751b0cb-9a16-4b67-9fe8-2314ade38667" />
 
 
 
