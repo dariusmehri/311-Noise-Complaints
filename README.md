@@ -39,11 +39,15 @@ The temporal pattern of 311 noise complaints shows a clear nighttime concentrati
 
 #### Loud Music/Party
 
+Loud music and party complaints closely follow social activity patterns. They peak in the evening and late-night hours—especially on weekends—and are concentrated in dense residential areas with active nightlife. Most stem from music in homes or on the street and often involve repeat locations, reflecting everyday conflicts driven by behavior and population density.
+
 The community district analysis of loud music and party complaints shows a clear concentration in a handful of neighborhoods. Washington Heights–Inwood in Manhattan ranks highest, followed by Wakefield–Williamsbridge in the Bronx, and Highbridge–Concourse Village, also in the Bronx. In Brooklyn, Williamsburg–Greenpoint and Bushwick round out the top five. This pattern highlights clusters of elevated nighttime noise activity across upper Manhattan, the central Bronx, and parts of North Brooklyn, suggesting these areas experience more frequent residential or street-level disturbances tied to social activity.
 
 <img width="1014" height="445" alt="image" src="https://github.com/user-attachments/assets/f36c72da-4899-4b3e-af83-14e683212b49" />
 
 #### Banging/Pounding
+
+Banging and pounding complaints are usually tied to everyday residential noise like footsteps or furniture moving through walls and ceilings, especially in older or dense housing. They occur throughout the day and often involve repeat neighbors, reflecting ongoing quality-of-life issues driven by building conditions.
 
 The community district analysis for banging and pounding complaints shows a similar concentration in dense, high-activity neighborhoods. Washington Heights–Inwood in Manhattan ranks highest, followed by Central Harlem, reinforcing upper Manhattan as a key hotspot. In the Bronx, Bedford Park–Norwood comes in third, while in Brooklyn, Brooklyn Heights–Fort Greene and Bensonhurst round out the top five. Overall, the pattern suggests these complaints are more prevalent in areas with a mix of older housing stock, higher residential density, and shared living spaces where structural noise and neighbor-related disturbances are more likely.
 
