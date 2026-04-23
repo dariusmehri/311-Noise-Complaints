@@ -41,7 +41,8 @@ The temporal pattern of 311 noise complaints shows a clear nighttime concentrati
 
 The community district analysis of loud music and party complaints shows a clear concentration in a handful of neighborhoods. Washington Heights–Inwood in Manhattan ranks highest, followed by Wakefield–Williamsbridge in the Bronx, and Highbridge–Concourse Village, also in the Bronx. In Brooklyn, Williamsburg–Greenpoint and Bushwick round out the top five. This pattern highlights clusters of elevated nighttime noise activity across upper Manhattan, the central Bronx, and parts of North Brooklyn, suggesting these areas experience more frequent residential or street-level disturbances tied to social activity.
 
-<img width="1014" height="445" alt="image" src="https://github.com/user-attachments/assets/58cea128-ebcf-441a-8699-702cfd117da7" />
+<img width="1014" height="445" alt="image" src="https://github.com/user-attachments/assets/f36c72da-4899-4b3e-af83-14e683212b49" />
+
 
 
 
