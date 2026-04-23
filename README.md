@@ -51,6 +51,8 @@ The community district analysis for banging and pounding complaints shows a simi
 
 #### Construction Equipment and After Hours Construction
 
+Construction-related noise complaints are concentrated in development-heavy areas. The Upper East Side ranks highest, followed by Stuyvesant Town–Turtle Bay and Williamsburg–Greenpoint, with Brooklyn Heights–Fort Greene also among the top districts. Most of the remaining top-ranked areas are in Manhattan—including Chelsea, Clinton, the Upper West Side, Midtown, Tribeca, and Battery Park City—highlighting the strong link between construction activity and noise complaints.
+
 <img width="1014" height="445" alt="image" src="https://github.com/user-attachments/assets/1083d166-2ae6-4b7d-9feb-a1c46fb3f49f" />
 
 
