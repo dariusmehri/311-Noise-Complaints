@@ -39,10 +39,6 @@ The temporal pattern of 311 noise complaints shows a clear nighttime concentrati
 
 #### Loud Music/Party
 
-<img width="280" height="287" alt="image" src="https://github.com/user-attachments/assets/c9ee9aa0-22f6-44f2-ad9f-61429f43323c" align='left' />
-
-<img width="256" height="244" alt="image" src="https://github.com/user-attachments/assets/6b87c505-3ea1-4a91-ae91-9d9eabfeef6d" align='right' />
-
 
 
 
